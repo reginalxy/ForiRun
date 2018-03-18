@@ -1,5 +1,4 @@
-![](https://github.com/reginalxy/ForiRun/raw/master/美工/0%20HomePage.jpg)   
-  
+# ForiRun  
 
 This is a 2D Parkour game developed on Unity3D for iOS.   
 Maybe there is some problem after opening on Unity because it's a project 2 years ago, which cause some problem to be fixed.
@@ -8,7 +7,7 @@ Maybe there is some problem after opening on Unity because it's a project 2 year
 
 Unity3D 5.3.4f1 (Personal)
 
-## Open the Unity Project
+## Open as the Unity Project
 
 open
 ```
