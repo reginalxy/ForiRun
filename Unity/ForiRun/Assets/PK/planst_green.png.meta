@@ -1,0 +1,100 @@
+fileFormatVersion: 2
+guid: 7e6bcda4f72864264bed263c20a2c1d0
+timeCreated: 1463242732
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: planst_green_0
+    21300002: planst_green_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: planst_green_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 24
+        width: 106
+        height: 100
+      alignment: 9
+      pivot: {x: 0.58949447, y: 0.15960498}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.513588, y: 84.039505}
+        - {x: -52.486412, y: 84.039505}
+        - {x: -62.486412, y: 72.039505}
+        - {x: -62.486412, y: 14.039501}
+        - {x: -61.486412, y: 12.039501}
+        - {x: -26.486412, y: -15.960499}
+        - {x: 23.513588, y: -15.960499}
+        - {x: 37.513588, y: -8.960499}
+        - {x: 43.513588, y: 6.039501}
+        - {x: 43.513588, y: 80.039505}
+    - name: planst_green_1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 27
+        width: 107
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5365063, y: 0.1568148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49.593826, y: 38.31852}
+        - {x: 49.593826, y: 84.31852}
+        - {x: -57.406174, y: 84.31852}
+        - {x: -57.406174, y: -15.68148}
+        - {x: 33.593826, y: -15.68148}
+        - {x: 40.593826, y: -10.68148}
+        - {x: 37.593826, y: 8.31852}
+        - {x: 34.593826, y: 12.31852}
+        - {x: 29.593826, y: 17.31852}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

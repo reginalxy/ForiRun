@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: 2048aaf3db3dc47e0a7d4234ff3ff992
+timeCreated: 1461239704
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: barriersAni_kumo_0
+    21300002: barriersAni_kumo_1
+    21300004: barriersAni_kumo_2
+    21300006: barriersAni_kumo_3
+    21300008: barriersAni_kumo_4
+    21300010: barriersAni_kumo_5
+    21300012: barriersAni_kumo_6
+    21300014: barriersAni_kumo_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: barriersAni_kumo_0
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 676
+        width: 134
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 65.5}
+        - {x: -67, y: 48.5}
+        - {x: -67, y: -36.5}
+        - {x: -58, y: -65.5}
+        - {x: -35, y: -65.5}
+        - {x: -28, y: -61.5}
+        - {x: -13, y: -65.5}
+        - {x: 50, y: -65.5}
+        - {x: 67, y: -47.5}
+        - {x: 67, y: 43.5}
+        - {x: 31, y: 65.5}
+    - name: barriersAni_kumo_1
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 672
+        width: 133
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.5, y: 65.5}
+        - {x: -66.5, y: 61.5}
+        - {x: -66.5, y: -48.5}
+        - {x: -40.5, y: -65.5}
+        - {x: 62.5, y: -65.5}
+        - {x: 66.5, y: -54.5}
+        - {x: 66.5, y: 65.5}
+    - name: barriersAni_kumo_2
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 675
+        width: 134
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 65.5}
+        - {x: -67, y: 48.5}
+        - {x: -67, y: -36.5}
+        - {x: -58, y: -65.5}
+        - {x: -35, y: -65.5}
+        - {x: -28, y: -61.5}
+        - {x: -13, y: -65.5}
+        - {x: 50, y: -65.5}
+        - {x: 67, y: -47.5}
+        - {x: 67, y: 43.5}
+        - {x: 31, y: 65.5}
+    - name: barriersAni_kumo_3
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 671
+        width: 133
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.5, y: 65.5}
+        - {x: -66.5, y: 61.5}
+        - {x: -66.5, y: -48.5}
+        - {x: -40.5, y: -65.5}
+        - {x: 62.5, y: -65.5}
+        - {x: 66.5, y: -54.5}
+        - {x: 66.5, y: 65.5}
+    - name: barriersAni_kumo_4
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 264
+        width: 127
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 64.5}
+        - {x: -63.5, y: 43.5}
+        - {x: -63.5, y: -60.5}
+        - {x: -61.5, y: -64.5}
+        - {x: 63.5, y: -64.5}
+        - {x: 63.5, y: 47.5}
+        - {x: 33.5, y: 64.5}
+    - name: barriersAni_kumo_5
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 260
+        width: 127
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 64.5}
+        - {x: -63.5, y: 43.5}
+        - {x: -63.5, y: -60.5}
+        - {x: -61.5, y: -64.5}
+        - {x: 63.5, y: -64.5}
+        - {x: 63.5, y: 47.5}
+        - {x: 33.5, y: 64.5}
+    - name: barriersAni_kumo_6
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 264
+        width: 127
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 64.5}
+        - {x: -63.5, y: 43.5}
+        - {x: -63.5, y: -60.5}
+        - {x: -61.5, y: -64.5}
+        - {x: 63.5, y: -64.5}
+        - {x: 63.5, y: 47.5}
+        - {x: 33.5, y: 64.5}
+    - name: barriersAni_kumo_7
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 261
+        width: 127
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 64.5}
+        - {x: -63.5, y: 43.5}
+        - {x: -63.5, y: -60.5}
+        - {x: -61.5, y: -64.5}
+        - {x: 63.5, y: -64.5}
+        - {x: 63.5, y: 47.5}
+        - {x: 33.5, y: 64.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

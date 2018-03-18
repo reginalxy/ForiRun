@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/hp.unity
+  isLoaded: 1
+  isActive: 1

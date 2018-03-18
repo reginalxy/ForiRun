@@ -1,0 +1,27 @@
+<config>
+  <bestgrade>0</bestgrade>
+  <coinscount>100</coinscount>
+  <bluecount>0</bluecount>
+  <yellowcount>0</yellowcount>
+  <greencount>5</greencount>
+  <protectorlevel>0</protectorlevel>
+  <doublelevel>0</doublelevel>
+  <boostlevel>0</boostlevel>
+  <protectorcount>3</protectorcount>
+  <doublecount>3</doublecount>
+  <boostcount>3</boostcount>
+  <levelcost>
+    <level1>0</level1>
+    <level2>50</level2>
+    <level3>100</level3>
+    <level4>200</level4>
+    <level5>500</level5>
+  </levelcost>
+  <levelplantscost>
+    <level1>1</level1>
+    <level2>1</level2>
+    <level3>2</level3>
+    <level4>2</level4>
+    <level5>4</level5>
+  </levelplantscost>
+</config>

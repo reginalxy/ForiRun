@@ -1,0 +1,30 @@
+/Users/reginalxy/Desktop/ForiRun/Unity/ForiRun/Temp/bin/Debug/UnityEngine.dll
+/Users/reginalxy/Desktop/ForiRun/Unity/ForiRun/Temp/bin/Debug/UnityEditor.dll
+/Users/reginalxy/Desktop/ForiRun/Unity/ForiRun/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/reginalxy/Desktop/ForiRun/Unity/ForiRun/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/reginalxy/Desktop/ForiRun/Unity/ForiRun/Temp/bin/Debug/Mono.Cecil.dll
+/Users/reginalxy/Desktop/ForiRun/Unity/ForiRun/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/reginalxy/Desktop/ForiRun/Unity/ForiRun/Temp/bin/Debug/Unity.DataContract.dll
+/Users/reginalxy/Desktop/ForiRun/Unity/ForiRun/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/reginalxy/Desktop/ForiRun/Unity/ForiRun/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/reginalxy/Desktop/ForiRun/Unity/ForiRun/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/reginalxy/Desktop/ForiRun/Unity/ForiRun/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/reginalxy/Desktop/ForiRun/Unity/ForiRun/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/reginalxy/Desktop/ForiRun/Unity/ForiRun/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/reginalxy/Desktop/ForiRun 2/Unity/ForiRun/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/reginalxy/Desktop/ForiRun 2/Unity/ForiRun/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/reginalxy/Desktop/ForiRun 2/Unity/ForiRun/obj/Debug/Assembly-CSharp.dll
+/Users/reginalxy/Desktop/ForiRun 2/Unity/ForiRun/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/reginalxy/Desktop/ForiRun 2/Unity/ForiRun/Temp/bin/Debug/UnityEngine.dll
+/Users/reginalxy/Desktop/ForiRun 2/Unity/ForiRun/Temp/bin/Debug/UnityEditor.dll
+/Users/reginalxy/Desktop/ForiRun 2/Unity/ForiRun/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/reginalxy/Desktop/ForiRun 2/Unity/ForiRun/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/reginalxy/Desktop/ForiRun 2/Unity/ForiRun/Temp/bin/Debug/Mono.Cecil.dll
+/Users/reginalxy/Desktop/ForiRun 2/Unity/ForiRun/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/reginalxy/Desktop/ForiRun 2/Unity/ForiRun/Temp/bin/Debug/Unity.DataContract.dll
+/Users/reginalxy/Desktop/ForiRun 2/Unity/ForiRun/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/reginalxy/Desktop/ForiRun 2/Unity/ForiRun/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/reginalxy/Desktop/ForiRun 2/Unity/ForiRun/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/reginalxy/Desktop/ForiRun 2/Unity/ForiRun/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/reginalxy/Desktop/ForiRun 2/Unity/ForiRun/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/reginalxy/Desktop/ForiRun 2/Unity/ForiRun/Temp/bin/Debug/Mono.Cecil.Mdb.dll

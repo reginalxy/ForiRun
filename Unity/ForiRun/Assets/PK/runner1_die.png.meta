@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: 84b89fc0f4c1d4acbbdf0976ded085dd
+timeCreated: 1464083527
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: runner1_die_0
+    21300002: runner1_die_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: runner1_die_0
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 212
+        width: 322
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -260}
+        - {x: 32, y: -133}
+        - {x: 15, y: -34}
+        - {x: 67, y: -81}
+        - {x: 99, y: -88}
+        - {x: 156, y: -53}
+        - {x: 156, y: -9}
+        - {x: 90, y: 32}
+        - {x: 93, y: 114}
+        - {x: 156, y: 191}
+        - {x: 156, y: 209}
+        - {x: 112, y: 252}
+        - {x: 58, y: 252}
+        - {x: 0, y: 228}
+        - {x: -16, y: 137}
+        - {x: -34, y: 104}
+        - {x: -104, y: -18}
+        - {x: -84, y: -134}
+        - {x: -161, y: -183}
+        - {x: -161, y: -224}
+        - {x: -121, y: -270}
+        - {x: -70, y: -270}
+        - {x: -51, y: -262}
+        - {x: -3, y: -270}
+        - {x: 33, y: -270}
+      - - {x: 111, y: 61}
+        - {x: 107, y: 57}
+        - {x: 106, y: 53}
+        - {x: 108, y: 51}
+        - {x: 111, y: 51}
+        - {x: 114, y: 55}
+        - {x: 114, y: 60}
+      - - {x: 109, y: 99}
+        - {x: 106, y: 99}
+        - {x: 105, y: 97}
+        - {x: 104, y: 93}
+        - {x: 106, y: 91}
+        - {x: 107, y: 91}
+        - {x: 111, y: 95}
+        - {x: 111, y: 98}
+      - - {x: 154, y: 161}
+        - {x: 149, y: 146}
+        - {x: 149, y: 141}
+        - {x: 151, y: 140}
+        - {x: 154, y: 141}
+        - {x: 161, y: 151}
+        - {x: 161, y: 159}
+        - {x: 160, y: 161}
+      - - {x: 158, y: 169}
+        - {x: 160, y: 167}
+        - {x: 161, y: 167}
+        - {x: 161, y: 180}
+        - {x: 158, y: 179}
+    - name: runner1_die_1
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 388
+        width: 626
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 123, y: -270}
+        - {x: 122, y: -267}
+        - {x: 115, y: -267}
+        - {x: 114, y: -270}
+      - - {x: 104, y: -134}
+        - {x: 66, y: -139}
+        - {x: 66, y: -144}
+        - {x: -31, y: -134}
+        - {x: -74, y: -134}
+        - {x: -79, y: -152}
+        - {x: -240, y: -163}
+        - {x: -242, y: -144}
+        - {x: -313, y: -148}
+        - {x: -313, y: -247}
+        - {x: -309, y: -249}
+        - {x: -304, y: -249}
+        - {x: -294, y: -241}
+        - {x: -160, y: -232}
+        - {x: -75, y: -245}
+        - {x: 44, y: -234}
+        - {x: 95, y: -257}
+        - {x: 154, y: -266}
+        - {x: 241, y: -266}
+        - {x: 313, y: -241}
+        - {x: 313, y: -140}
+        - {x: 273, y: -134}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

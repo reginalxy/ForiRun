@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: 687ab3f7cc84942a0b405273401706ee
+timeCreated: 1462387810
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: runner_climb_0
+    21300002: runner_climb_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: runner_climb_0
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 283
+        width: 429
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 214.5, y: -195.5}
+        - {x: 169.5, y: -177.5}
+        - {x: 119.5, y: -72.5}
+        - {x: 73.5, y: -53.5}
+        - {x: 84.5, y: -43.5}
+        - {x: 106.5, y: 11.5}
+        - {x: 82.5, y: 56.5}
+        - {x: -1.5, y: 27.5}
+        - {x: -35.5, y: 137.5}
+        - {x: -49.5, y: 205.5}
+        - {x: -138.5, y: 212.5}
+        - {x: -166.5, y: 229.5}
+        - {x: -204.5, y: 229.5}
+        - {x: -214.5, y: 214.5}
+        - {x: -214.5, y: 189.5}
+        - {x: -211.5, y: 182.5}
+        - {x: -177.5, y: 124.5}
+        - {x: -142.5, y: 4.5}
+        - {x: -92.5, y: -107.5}
+        - {x: -71.5, y: -139.5}
+        - {x: 45.5, y: -176.5}
+        - {x: 55.5, y: -179.5}
+        - {x: 75.5, y: -277.5}
+        - {x: 123.5, y: -277.5}
+        - {x: 154.5, y: -273.5}
+        - {x: 191.5, y: -262.5}
+        - {x: 212.5, y: -218.5}
+        - {x: 214.5, y: -213.5}
+      - - {x: -30.5, y: 158.5}
+        - {x: -34.5, y: 157.5}
+        - {x: -34.5, y: 144.5}
+        - {x: -31.5, y: 142.5}
+        - {x: -25.5, y: 142.5}
+        - {x: -25.5, y: 153.5}
+      - - {x: -34.5, y: 158.5}
+        - {x: -31.5, y: 159.5}
+        - {x: -31.5, y: 162.5}
+        - {x: -34.5, y: 163.5}
+        - {x: -36.5, y: 161.5}
+      - - {x: -177.5, y: 233.5}
+        - {x: -176.5, y: 231.5}
+        - {x: -173.5, y: 231.5}
+        - {x: -171.5, y: 232.5}
+        - {x: -171.5, y: 235.5}
+        - {x: -172.5, y: 237.5}
+        - {x: -174.5, y: 237.5}
+        - {x: -177.5, y: 235.5}
+      - - {x: -186.5, y: 234.5}
+        - {x: -183.5, y: 235.5}
+        - {x: -183.5, y: 238.5}
+        - {x: -186.5, y: 239.5}
+        - {x: -188.5, y: 237.5}
+    - name: runner_climb_1
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 284
+        width: 629
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 314.5, y: -167.5}
+        - {x: 291.5, y: -180.5}
+        - {x: 260.5, y: -201.5}
+        - {x: 155.5, y: -109.5}
+        - {x: 112.5, y: -86.5}
+        - {x: 80.5, y: -86.5}
+        - {x: 21.5, y: -161.5}
+        - {x: -46.5, y: -147.5}
+        - {x: -111.5, y: -138.5}
+        - {x: -179.5, y: -94.5}
+        - {x: -206.5, y: -91.5}
+        - {x: -251.5, y: -113.5}
+        - {x: -307.5, y: -180.5}
+        - {x: -307.5, y: -227.5}
+        - {x: -282.5, y: -240.5}
+        - {x: -275.5, y: -233.5}
+        - {x: -250.5, y: -214.5}
+        - {x: -140.5, y: -244.5}
+        - {x: -112.5, y: -266.5}
+        - {x: -55.5, y: -277.5}
+        - {x: 186.5, y: -277.5}
+        - {x: 199.5, y: -263.5}
+        - {x: 274.5, y: -277.5}
+        - {x: 314.5, y: -277.5}
+      - - {x: -288.5, y: -242.5}
+        - {x: -288.5, y: -245.5}
+        - {x: -286.5, y: -247.5}
+        - {x: -281.5, y: -245.5}
+        - {x: -278.5, y: -238.5}
+        - {x: -279.5, y: -236.5}
+        - {x: -282.5, y: -236.5}
+        - {x: -286.5, y: -238.5}
+      - - {x: -296.5, y: -240.5}
+        - {x: -293.5, y: -239.5}
+        - {x: -293.5, y: -236.5}
+        - {x: -296.5, y: -235.5}
+        - {x: -298.5, y: -237.5}
+      - - {x: -311.5, y: -203.5}
+        - {x: -311.5, y: -200.5}
+        - {x: -314.5, y: -199.5}
+        - {x: -314.5, y: -204.5}
+      - - {x: -312.5, y: -187.5}
+        - {x: -313.5, y: -189.5}
+        - {x: -313.5, y: -192.5}
+        - {x: -311.5, y: -193.5}
+        - {x: -308.5, y: -193.5}
+        - {x: -307.5, y: -191.5}
+        - {x: -307.5, y: -189.5}
+        - {x: -310.5, y: -187.5}
+      - - {x: -160.5, y: -88.5}
+        - {x: -160.5, y: -93.5}
+        - {x: -153.5, y: -101.5}
+        - {x: -149.5, y: -101.5}
+        - {x: -145.5, y: -99.5}
+        - {x: -145.5, y: -94.5}
+        - {x: -153.5, y: -88.5}
+      - - {x: -165.5, y: -93.5}
+        - {x: -162.5, y: -92.5}
+        - {x: -162.5, y: -89.5}
+        - {x: -165.5, y: -88.5}
+        - {x: -167.5, y: -90.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,266 @@
+fileFormatVersion: 2
+guid: d902d616cb7954d85807674e3ee1e7d4
+timeCreated: 1461239587
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: barriersAni_hole_0
+    21300002: barriersAni_hole_1
+    21300004: barriersAni_hole_2
+    21300006: barriersAni_hole_3
+    21300008: barriersAni_hole_4
+    21300010: barriersAni_hole_5
+    21300012: barriersAni_hole_6
+    21300014: barriersAni_hole_7
+    21300016: barriersAni_hole_8
+    21300018: barriersAni_hole_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: barriersAni_hole_0
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 790
+        width: 237
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 106}
+        - {x: -118.5, y: 47}
+        - {x: -118.5, y: 0}
+        - {x: 118.5, y: 0}
+        - {x: 118.5, y: 53}
+        - {x: 76.5, y: 106}
+    - name: barriersAni_hole_1
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 790
+        width: 237
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 122}
+        - {x: -118.5, y: 60}
+        - {x: -118.5, y: 9}
+        - {x: -97.5, y: 0}
+        - {x: 106.5, y: 0}
+        - {x: 118.5, y: 4}
+        - {x: 118.5, y: 95}
+        - {x: 48.5, y: 122}
+    - name: barriersAni_hole_2
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 776
+        width: 237
+        height: 145
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50.5, y: 145}
+        - {x: -21.5, y: 145}
+        - {x: -114.5, y: 50}
+        - {x: -118.5, y: 44}
+        - {x: -118.5, y: 0}
+        - {x: 118.5, y: 0}
+        - {x: 118.5, y: 47}
+        - {x: 104.5, y: 83}
+    - name: barriersAni_hole_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 530
+        width: 237
+        height: 145
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50.5, y: 145}
+        - {x: -21.5, y: 145}
+        - {x: -114.5, y: 50}
+        - {x: -118.5, y: 44}
+        - {x: -118.5, y: 0}
+        - {x: 118.5, y: 0}
+        - {x: 118.5, y: 47}
+        - {x: 104.5, y: 83}
+    - name: barriersAni_hole_4
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 521
+        width: 237
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 122}
+        - {x: -118.5, y: 60}
+        - {x: -118.5, y: 9}
+        - {x: -97.5, y: 0}
+        - {x: 106.5, y: 0}
+        - {x: 118.5, y: 4}
+        - {x: 118.5, y: 95}
+        - {x: 48.5, y: 122}
+    - name: barriersAni_hole_5
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 512
+        width: 237
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 106}
+        - {x: -118.5, y: 47}
+        - {x: -118.5, y: 0}
+        - {x: 118.5, y: 0}
+        - {x: 118.5, y: 53}
+        - {x: 76.5, y: 106}
+    - name: barriersAni_hole_6
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 503
+        width: 237
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 106}
+        - {x: -118.5, y: 47}
+        - {x: -118.5, y: 0}
+        - {x: 118.5, y: 0}
+        - {x: 118.5, y: 53}
+        - {x: 76.5, y: 106}
+    - name: barriersAni_hole_7
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 226
+        width: 237
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 132}
+        - {x: -26.5, y: 112}
+        - {x: -30.5, y: 106}
+        - {x: -73.5, y: 75}
+        - {x: -114.5, y: 50}
+        - {x: -118.5, y: 44}
+        - {x: -118.5, y: 21}
+        - {x: -117.5, y: 16}
+        - {x: -33.5, y: 0}
+        - {x: 106.5, y: 0}
+        - {x: 118.5, y: 20}
+        - {x: 118.5, y: 55}
+        - {x: 53.5, y: 132}
+    - name: barriersAni_hole_8
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 224
+        width: 237
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 132}
+        - {x: -26.5, y: 112}
+        - {x: -30.5, y: 106}
+        - {x: -73.5, y: 75}
+        - {x: -114.5, y: 50}
+        - {x: -118.5, y: 44}
+        - {x: -118.5, y: 21}
+        - {x: -117.5, y: 16}
+        - {x: -33.5, y: 0}
+        - {x: 106.5, y: 0}
+        - {x: 118.5, y: 20}
+        - {x: 118.5, y: 55}
+        - {x: 53.5, y: 132}
+    - name: barriersAni_hole_9
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 222
+        width: 237
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 132}
+        - {x: -26.5, y: 112}
+        - {x: -30.5, y: 106}
+        - {x: -73.5, y: 75}
+        - {x: -114.5, y: 50}
+        - {x: -118.5, y: 44}
+        - {x: -118.5, y: 21}
+        - {x: -117.5, y: 16}
+        - {x: -33.5, y: 0}
+        - {x: 106.5, y: 0}
+        - {x: 118.5, y: 20}
+        - {x: 118.5, y: 55}
+        - {x: 53.5, y: 132}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

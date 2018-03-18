@@ -1,0 +1,115 @@
+fileFormatVersion: 2
+guid: 720e9f6c1cf3a4d64b6311f13727cbeb
+timeCreated: 1464083563
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: runner1_jump_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: runner1_jump_0
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 229
+        width: 291
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 102.5, y: 146}
+        - {x: 135.5, y: 212}
+        - {x: 135.5, y: 228}
+        - {x: 86.5, y: 257}
+        - {x: 35.5, y: 257}
+        - {x: -22.5, y: 224}
+        - {x: 5.5, y: 179}
+        - {x: -81.5, y: 112}
+        - {x: -128.5, y: -18}
+        - {x: -129.5, y: -47}
+        - {x: -64.5, y: -119}
+        - {x: -101.5, y: -138}
+        - {x: -144.5, y: -162}
+        - {x: -145.5, y: -167}
+        - {x: -145.5, y: -194}
+        - {x: -107.5, y: -257}
+        - {x: -40.5, y: -257}
+        - {x: 14.5, y: -142}
+        - {x: 17.5, y: -121}
+        - {x: -0.5, y: -16}
+      - - {x: 95.5, y: 68}
+        - {x: 93.5, y: 68}
+        - {x: 88.5, y: 64}
+        - {x: 88.5, y: 57}
+        - {x: 93.5, y: 57}
+        - {x: 96.5, y: 62}
+        - {x: 96.5, y: 66}
+      - - {x: 107.5, y: 112}
+        - {x: 103.5, y: 112}
+        - {x: 101.5, y: 107}
+        - {x: 101.5, y: 105}
+        - {x: 103.5, y: 104}
+        - {x: 104.5, y: 104}
+        - {x: 108.5, y: 108}
+        - {x: 108.5, y: 111}
+      - - {x: 140.5, y: 180}
+        - {x: 136.5, y: 171}
+        - {x: 136.5, y: 159}
+        - {x: 141.5, y: 159}
+        - {x: 145.5, y: 161}
+        - {x: 145.5, y: 180}
+      - - {x: 142.5, y: 191}
+        - {x: 144.5, y: 189}
+        - {x: 145.5, y: 189}
+        - {x: 145.5, y: 195}
+        - {x: 142.5, y: 194}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
